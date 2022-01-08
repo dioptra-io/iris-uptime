@@ -1,22 +1,22 @@
 [
   {
     "name": "Iris Production API",
-    "url": "https://api.iris.dioptra.io/",
+    "url": "https://api.iris.dioptra.io/docs",
     "icon": "https://favicons.githubusercontent.com/api.iris.dioptra.io",
     "slug": "iris-production-api",
-    "status": "down",
-    "uptime": "13.08%",
-    "uptimeDay": "13.08%",
-    "uptimeWeek": "13.08%",
-    "uptimeMonth": "13.08%",
-    "uptimeYear": "13.08%",
-    "time": 647,
-    "timeDay": 647,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "status": "up",
+    "uptime": "1.61%",
+    "uptimeDay": "1.61%",
+    "uptimeWeek": "1.61%",
+    "uptimeMonth": "1.61%",
+    "uptimeYear": "1.61%",
+    "time": 557,
+    "timeDay": 557,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-01-08": 0
+      "2022-01-08": 4
     }
   }
 ]
