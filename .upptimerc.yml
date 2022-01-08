@@ -12,11 +12,11 @@ assignees:
   - maxmouchet
 
 status-website:
-  baseUrl: /iris-upptime
+  baseUrl: /iris-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Iris Upptime
   introTitle: "Uptime monitoring of Iris platform"
-  introMessage: This is the monitoring of Iris platform using [upptime](https://github.com/upptime/upptime)
+  introMessage: "This is the monitoring of Iris platform using [upptime](https://github.com/upptime/upptime)."
   navbar:
     - title: Status
       href: /
