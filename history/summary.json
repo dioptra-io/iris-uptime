@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.iris.dioptra.io",
     "slug": "iris-production-api",
     "status": "up",
-    "uptime": "1.61%",
-    "uptimeDay": "1.61%",
-    "uptimeWeek": "1.61%",
-    "uptimeMonth": "1.61%",
-    "uptimeYear": "1.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 557,
     "timeDay": 557,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
-    "dailyMinutesDown": {
-      "2022-01-08": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
