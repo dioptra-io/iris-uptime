@@ -4,11 +4,14 @@ repo: iris-uptime
 sites:
   - name: Iris Production API
     url: https://api.iris.dioptra.io/docs
+  - name: Iris Development API
+    url: https://api.iris.dioptra-sandbox.xyz/docs
+
+assignees: 
+  - matthieugouel
+  - maxmouchet
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /iris-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Iris Upptime
