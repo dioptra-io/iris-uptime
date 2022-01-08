@@ -2,6 +2,8 @@ owner: dioptra-io
 repo: iris-uptime
 
 sites:
+  - name: Iris Website
+    url: https://iris.dioptra.io
   - name: Iris Production API
     url: https://api.iris.dioptra.io/docs
   - name: Iris Development API
