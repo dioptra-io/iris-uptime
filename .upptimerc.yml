@@ -16,7 +16,7 @@ assignees:
 status-website:
   baseUrl: /iris-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: dark
+  theme: night
   name: Iris Uptime
   navbar:
     - title: Status
