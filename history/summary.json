@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 257,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 261,
+    "timeDay": 203,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -23,38 +23,36 @@
     "icon": "https://favicons.githubusercontent.com/api.iris.dioptra.io",
     "slug": "iris-production-api",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 512,
-    "timeDay": 559,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
-    "dailyMinutesDown": {
-      "2022-01-12": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 504,
+    "timeDay": 511,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Iris Development API",
-    "url": "https://api.iris.dioptra-sandbox.xyz/docs",
-    "icon": "https://favicons.githubusercontent.com/api.iris.dioptra-sandbox.xyz",
+    "url": "https://api.dev.iris.dioptra.io/docs",
+    "icon": "https://favicons.githubusercontent.com/api.dev.iris.dioptra.io",
     "slug": "iris-development-api",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 397,
-    "timeDay": 443,
+    "timeDay": 432,
     "timeWeek": 397,
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-01-12": 8
+      "2022-01-12": 74
     }
   }
 ]
