@@ -7,7 +7,7 @@ sites:
   - name: Iris Production API
     url: https://api.iris.dioptra.io/docs
   - name: Iris Development API
-    url: https://api.iris.dioptra-sandbox.xyz/docs
+    url: https://api.dev.iris.dioptra.io/docs
 
 assignees: 
   - matthieugouel
