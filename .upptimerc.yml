@@ -7,7 +7,7 @@ sites:
   - name: Iris Production API
     url: https://api.iris.dioptra.io/docs
   - name: Iris Development API
-    url: https://api.dev.iris.dioptra.io/docs
+    url: https://api.dev.iris.dioptra.io/status
 
 assignees: 
   - matthieugouel
@@ -15,11 +15,17 @@ assignees:
 
 status-website:
   baseUrl: /iris-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/dioptra-io/iris-website/main/src/assets/images/dioptra-logo.svg
   theme: night
-  name: Iris Uptime
+  name: Dioptra Data | Iris Uptime
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/dioptra-io/iris
+
+workflowSchedule:
+  # Every hour at minute 15 (every day by default)
+  responseTime: "15 * * * *"
+  # Every hour at minute 20 (every day by default)
+  graphs: "20 * * * *"
