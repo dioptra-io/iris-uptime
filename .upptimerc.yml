@@ -23,9 +23,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/dioptra-io/iris
-
-workflowSchedule:
-  # Every hour at minute 15 (every day by default)
-  responseTime: "15 * * * *"
-  # Every hour at minute 20 (every day by default)
-  graphs: "20 * * * *"
