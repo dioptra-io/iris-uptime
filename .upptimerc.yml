@@ -5,7 +5,7 @@ sites:
   - name: Iris Website
     url: https://iris.dioptra.io
   - name: Iris Production API
-    url: https://api.iris.dioptra.io/docs
+    url: https://api.iris.dioptra.io/status
   - name: Iris Development API
     url: https://api.dev.iris.dioptra.io/status
 
