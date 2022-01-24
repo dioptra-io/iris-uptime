@@ -21,5 +21,7 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Iris Website
+      href: https://iris.dioptra.io
     - title: GitHub
       href: https://github.com/dioptra-io/iris
