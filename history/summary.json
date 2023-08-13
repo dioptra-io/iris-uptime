@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 291,
-    "timeDay": 196,
-    "timeWeek": 217,
-    "timeMonth": 285,
+    "time": 292,
+    "timeDay": 355,
+    "timeWeek": 249,
+    "timeMonth": 284,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-09-15": 34
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.iris.dioptra.io.ico",
     "slug": "iris-production-api",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.27%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "98.25%",
-    "time": 4078,
-    "timeDay": 6018,
-    "timeWeek": 6498,
-    "timeMonth": 6538,
-    "timeYear": 4373,
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "98.52%",
+    "time": 4083,
+    "timeDay": 6542,
+    "timeWeek": 6528,
+    "timeMonth": 6320,
+    "timeYear": 4379,
     "dailyMinutesDown": {
       "2023-08-08": 458,
       "2023-08-07": 421,
@@ -45,8 +45,7 @@
       "2022-12-08": 20,
       "2022-08-16": 460,
       "2022-08-15": 1440,
-      "2022-08-14": 1440,
-      "2022-08-13": 1440
+      "2022-08-14": 1440
     }
   },
   {
@@ -55,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.iris.dioptra.io.ico",
     "slug": "iris-development-api",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.27%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "98.23%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "98.51%",
     "time": 1079,
-    "timeDay": 897,
-    "timeWeek": 1490,
-    "timeMonth": 976,
-    "timeYear": 1045,
+    "timeDay": 843,
+    "timeWeek": 1497,
+    "timeMonth": 998,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2023-08-08": 458,
       "2023-08-07": 421,
@@ -75,8 +74,7 @@
       "2022-12-08": 20,
       "2022-08-16": 460,
       "2022-08-15": 1440,
-      "2022-08-14": 1440,
-      "2022-08-13": 1440
+      "2022-08-14": 1440
     }
   }
 ]
