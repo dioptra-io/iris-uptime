@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 295,
-    "timeDay": 451,
-    "timeWeek": 382,
-    "timeMonth": 311,
+    "timeDay": 251,
+    "timeWeek": 357,
+    "timeMonth": 305,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2022-09-15": 34
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Iris Production API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.42%",
-    "time": 4282,
-    "timeDay": 6402,
-    "timeWeek": 6426,
-    "timeMonth": 6494,
-    "timeYear": 4599,
+    "time": 4289,
+    "timeDay": 6595,
+    "timeWeek": 6455,
+    "timeMonth": 6502,
+    "timeYear": 4609,
     "dailyMinutesDown": {
       "2023-08-28": 42,
       "2023-08-08": 458,
@@ -58,10 +56,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.41%",
     "time": 1088,
-    "timeDay": 1061,
-    "timeWeek": 915,
-    "timeMonth": 1116,
-    "timeYear": 1038,
+    "timeDay": 844,
+    "timeWeek": 930,
+    "timeMonth": 1111,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2023-08-28": 42,
       "2023-08-08": 458,
