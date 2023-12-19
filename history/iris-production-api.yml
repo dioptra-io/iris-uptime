@@ -1,7 +1,7 @@
 url: https://api.iris.dioptra.io/status
-status: down
-code: 500
-responseTime: 3628
-lastUpdated: 2023-12-19T15:59:36.364Z
+status: up
+code: 200
+responseTime: 8116
+lastUpdated: 2023-12-19T16:20:03.467Z
 startTime: 2022-01-08T09:28:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
