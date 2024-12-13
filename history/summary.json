@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 358,
-    "timeWeek": 427,
-    "timeMonth": 426,
+    "timeDay": 419,
+    "timeWeek": 425,
+    "timeMonth": 427,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.iris.dioptra.io.ico",
     "slug": "iris-production-api",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.00%",
-    "time": 8809,
-    "timeDay": 13042,
-    "timeWeek": 12809,
-    "timeMonth": 12601,
-    "timeYear": 9493,
+    "time": 8823,
+    "timeDay": 13864,
+    "timeWeek": 12956,
+    "timeMonth": 12646,
+    "timeYear": 9511,
     "dailyMinutesDown": {
       "2024-09-06": 117,
       "2024-09-05": 142,
@@ -64,8 +64,7 @@
       "2023-12-18": 648,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
-      "2023-12-15": 1440,
-      "2023-12-14": 512
+      "2023-12-15": 1440
     }
   },
   {
@@ -74,16 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.iris.dioptra.io.ico",
     "slug": "iris-development-api",
     "status": "up",
-    "uptime": "96.96%",
+    "uptime": "96.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.03%",
-    "time": 1414,
-    "timeDay": 762,
-    "timeWeek": 904,
-    "timeMonth": 1136,
-    "timeYear": 1559,
+    "time": 1413,
+    "timeDay": 1304,
+    "timeWeek": 953,
+    "timeMonth": 1145,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2024-09-06": 116,
       "2024-09-05": 142,
@@ -110,8 +109,7 @@
       "2023-12-18": 637,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
-      "2023-12-15": 1440,
-      "2023-12-14": 512
+      "2023-12-15": 1440
     }
   }
 ]
