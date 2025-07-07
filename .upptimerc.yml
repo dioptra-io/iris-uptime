@@ -10,8 +10,7 @@ sites:
     url: https://api.dev.iris.dioptra.io/status
 
 assignees: 
-  - matthieugouel
-  - maxmouchet
+  - iprsbot
 
 status-website:
   baseUrl: /iris-uptime
