@@ -24,13 +24,13 @@
     "url": "https://api.iris.dioptra.io/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.iris.dioptra.io.ico",
     "slug": "iris-production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.66%",
-    "time": 22018,
+    "time": 22031,
     "timeDay": 30388,
     "timeWeek": 28878,
     "timeMonth": 27538,
@@ -38,7 +38,8 @@
     "dailyMinutesDown": {
       "2025-10-27": 14,
       "2026-06-29": 901,
-      "2026-06-28": 869
+      "2026-06-28": 869,
+      "2026-10-21": 5
     }
   },
   {
@@ -46,13 +47,13 @@
     "url": "https://api.dev.iris.dioptra.io/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.iris.dioptra.io.ico",
     "slug": "iris-development-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 1227,
+    "time": 1228,
     "timeDay": 1028,
     "timeWeek": 1518,
     "timeMonth": 1742,
@@ -61,7 +62,8 @@
       "2025-10-27": 14,
       "2025-11-05": 23,
       "2026-06-29": 901,
-      "2026-06-28": 864
+      "2026-06-28": 864,
+      "2026-10-21": 0
     }
   }
 ]
