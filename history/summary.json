@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 403,
-    "timeDay": 271,
-    "timeWeek": 314,
-    "timeMonth": 354,
-    "timeYear": 373,
+    "timeDay": 587,
+    "timeWeek": 355,
+    "timeMonth": 365,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2025-12-24": 33
     }
@@ -25,21 +25,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.iris.dioptra.io.ico",
     "slug": "iris-production-api",
     "status": "down",
-    "uptime": "98.39%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.66%",
-    "time": 22031,
-    "timeDay": 30388,
-    "timeWeek": 28878,
-    "timeMonth": 27538,
-    "timeYear": 23185,
+    "uptime": "98.37%",
+    "uptimeDay": "59.10%",
+    "uptimeWeek": "94.16%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "99.55%",
+    "time": 22041,
+    "timeDay": 0,
+    "timeWeek": 27621,
+    "timeMonth": 27575,
+    "timeYear": 23194,
     "dailyMinutesDown": {
       "2025-10-27": 14,
       "2026-06-29": 901,
       "2026-06-28": 869,
-      "2026-10-21": 5
+      "2026-10-22": 188,
+      "2026-10-21": 401
     }
   },
   {
@@ -48,22 +49,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.iris.dioptra.io.ico",
     "slug": "iris-development-api",
     "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
-    "time": 1228,
-    "timeDay": 1028,
-    "timeWeek": 1518,
-    "timeMonth": 1742,
-    "timeYear": 1279,
+    "uptime": "98.02%",
+    "uptimeDay": "59.44%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.55%",
+    "time": 1229,
+    "timeDay": 0,
+    "timeWeek": 1563,
+    "timeMonth": 1768,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2025-10-27": 14,
       "2025-11-05": 23,
       "2026-06-29": 901,
       "2026-06-28": 864,
-      "2026-10-21": 0
+      "2026-10-22": 188,
+      "2026-10-21": 397
     }
   }
 ]
